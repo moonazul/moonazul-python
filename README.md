@@ -1,7 +1,7 @@
 # moonazul-python
 
 ## How to use
-```
+```python
 import unittest
 import moonazul
 
